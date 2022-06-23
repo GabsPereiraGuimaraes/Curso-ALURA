@@ -14,6 +14,8 @@ const somaNumerosPequenos = (num1, num2) => {
     } else {
         return num1 + num2;
     }
+    
+    //teste
 }
 
 //HOISTING: Arrow function se comporta como expressao
